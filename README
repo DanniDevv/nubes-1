@@ -1,0 +1,6 @@
+Dependencias:
+[X] npm install bootstrap
+
+URL:
+[X] http://localhost:3000/ratings
+[X] http://localhost:3000/movies
